@@ -26,7 +26,7 @@ PoC for Safari Access Exploit on iCloud-Locked iPhones This repository contains 
 
 ## How can this vulnerability be exploited by hackers:
 Information about the iCloud account, for example, the **iCloud email**, can be extracted, which is easy for white hat hackers.
-# Discover the vulnerability : 
+# Discover the vulnerability: 
 **Report writer**: **[Belkaid Moudjib]**  
 **Date Of Writing** : **[10/02/2025]**
 # Contact : 
